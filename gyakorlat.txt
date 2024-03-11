@@ -1,0 +1,4 @@
+A letöltött repository-ban dolgozz tovább.
+Készíts egy valasz.txt fájlt.
+Írj a valasz.txt fálba 6 db verziókövetési parancsot.
+Tölts fel a szerverre a valasz.txt fájlt.
