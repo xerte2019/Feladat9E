@@ -1,0 +1,7 @@
+név
+git branch
+git status
+git init
+git commit
+git add
+git log
